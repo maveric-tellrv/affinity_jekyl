@@ -1,0 +1,16 @@
+---
+layout: default
+title: Blog
+---
+<h1>Contact Us </h1>
+
+<ul>
+    {% for item in site.data.contact %}
+    <li>
+      <h2><a href="{{ item.link }}">{{ item.name }}</a></h2>
+      <h2><a href="{{ item.link }}">Whatapp: {{ item.phone }}</a></h2>
+      <h2><a href="#">Email: {{ item.email }}</a> </h2>
+
+    </li>
+  {% endfor %}
+</ul>
