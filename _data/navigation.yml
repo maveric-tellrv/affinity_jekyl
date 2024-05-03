@@ -2,7 +2,8 @@
   link: /
 - name: Blogs
   link: /blogs.html
-- name: Contact
-  link: /contact.html
 - name: vlog
   link: /videos.html
+- name: Contact
+  link: /contact.html
+
