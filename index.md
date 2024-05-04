@@ -29,7 +29,7 @@ Are you ready to embark on a journey into the future of technology? Look no furt
 >
 
 
-### Our Comprehensive Courses Include
+### Our Comprehensive Study Material Include
 
   * 🎓 Introduction to AI and OSS
   * 🔧 Advanced Linux OS
