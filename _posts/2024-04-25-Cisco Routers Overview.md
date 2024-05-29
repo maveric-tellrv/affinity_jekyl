@@ -1,3 +1,8 @@
+---
+layout: post
+author: Rohit vyas
+---
+
 # Cisco Routers Overview
 
 This document provides an overview of various Cisco router series, highlighting their specifications and target markets. Cisco offers a wide range of routers designed to meet the needs of different network environments, from small offices to large enterprises and service providers.
